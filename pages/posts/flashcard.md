@@ -1,7 +1,7 @@
 ---
-title: 📚 Flashcard
+title: 📚 Flashcards App
 date: 2024-11-25
-description: A simple flashcard app built with Next.js and Tailwind CSS.
+description: A simple flashcard app built with Next.js and Tailwind CSS. Great for learning and memorizing information in a fun and engaging way.
 tag: flashcard
 author: Wai Yan
 ---

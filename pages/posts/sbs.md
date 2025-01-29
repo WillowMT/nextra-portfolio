@@ -1,5 +1,5 @@
 ---
-title: 🚌 SBS
+title: 🚌 Singapore Bus Tracker
 date: 2024-08-12
 description: Singapore Bus Tracking service that allows you to track bus arrivals and nearby bus stops in real-time.
 tag: sbs
