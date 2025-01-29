@@ -1,5 +1,5 @@
 ---
-title: Multi-Currency Group Expense Tracker Bot
+title: 💸 Multi-Currency Group Expense Tracker Bot
 date: 2024-12-28
 description: This Telegram bot simplifies group expense tracking, bill splitting, and debt management across multiple currencies.
 tag: telegram bot
