@@ -26,6 +26,7 @@ Our scientifically-proven spaced repetition system adapts to your learning pace.
 The classic review mode offers multiple ways to study. Focus on cards due for review today, go through your entire collection, or concentrate on cards you haven't mastered yet. You can also prioritize your least reviewed cards to ensure balanced learning. Rate your confidence with each card using a four-point scale: Again (1), Hard (2), Good (3), or Easy (4). Use the spacebar to flip cards, and enjoy smooth, beautiful animations that make studying more engaging.
 
 <img src="/images/flashcard/flashcard-2.png" alt="Flashcard" style="border-radius: 10px;" />
+<img src="/images/flashcard/flashcard-5.png" alt="Flashcard" style="border-radius: 10px;" />
 
 #### 2. Speed Review Game
 Challenge yourself with our speed review game mode. Select your preferred time limit from 30 seconds up to 2 minutes, and test how many cards you can review accurately. Enjoy engaging sound effects and visual feedback as you play. This mode is perfect for quick practice sessions and helps improve your recall speed while making learning fun.
