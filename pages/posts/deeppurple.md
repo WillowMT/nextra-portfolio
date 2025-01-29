@@ -17,7 +17,7 @@ Visit [https://deeppurple2024-mu.vercel.app/](https://deeppurple2024-mu.vercel.a
 
 
 ### Team and Leadership
-The DeepPurple project is developed by a dedicated team of professionals with expertise in artificial intelligence, data science, and software engineering. Wai Yan Min Thu serves as the lead programmer, overseeing the implementation of core algorithms and system architecture. His expertise in machine learning and software development ensures the platform's efficiency and accuracy. The team works collaboratively to enhance functionality, optimize performance, and provide users with an intuitive experience.
+The DeepPurple project is developed by a dedicated team of professionals with expertise in artificial intelligence, data science, and software engineering. I served as the lead programmer, overseeing the implementation of core algorithms and system architecture. My expertise in machine learning and software development has allowed me to build a robust and scalable sentiment analysis platform. The team works collaboratively to enhance functionality, optimize performance, and provide users with an intuitive experience.
 
 ### User Authentication and Project Management
 The system ensures secure access through a registration and login module. Users can create accounts using email or social media credentials. Upon logging in, they can manage multiple projects, each containing specific datasets and analyses. The Project Overview module serves as the central hub where users can view summaries of active projects, monitor sentiment trends, and access recent reports.
