@@ -21,6 +21,7 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="764c48e0-dccc-45a7-bc63-b760c4477db3"></script>
       </Head>
       <body>
         <Main />
