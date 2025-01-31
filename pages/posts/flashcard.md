@@ -10,7 +10,32 @@ author: Wai Yan
 
 A powerful and intuitive flashcard application designed to help you learn and retain information effectively. This app combines the science of spaced repetition with engaging study modes to make your learning experience both efficient and enjoyable.
 
-Visit [https://flashcard-next-rho.vercel.app](https://flashcard-next-rho.vercel.app) to try it out.
+<div style="background: linear-gradient(135deg, #4F46E5 0%, #10B981 100%); padding: 1rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
+  <a href="https://flashcard-next-rho.vercel.app" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <span style="font-size: 1.5rem;">✨</span>
+    <span>Try the Flashcard App</span>
+    <span style="background: rgba(255, 255, 255, 0.15); padding: 0.375rem 1rem; border-radius: 9999px; font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem;">
+      <span style="width: 6px; height: 6px; background: #4ade80; border-radius: 50%; animation: pulse 1.5s ease-in-out infinite;"></span>
+      Live
+      <style jsx>{`
+        @keyframes pulse {
+          0% { opacity: 0.6; }
+          50% { opacity: 1; }
+          100% { opacity: 0.6; }
+        }
+      `}</style>
+    </span>
+  </a>
+</div>
+
+<Image
+  src="/images/flashcard/flashcard-6.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 ## 🌟 Key Features
 
@@ -25,23 +50,58 @@ Our scientifically-proven spaced repetition system adapts to your learning pace.
 #### 1. Classic Review Mode
 The classic review mode offers multiple ways to study. Focus on cards due for review today, go through your entire collection, or concentrate on cards you haven't mastered yet. You can also prioritize your least reviewed cards to ensure balanced learning. Rate your confidence with each card using a four-point scale: Again (1), Hard (2), Good (3), or Easy (4). Use the spacebar to flip cards, and enjoy smooth, beautiful animations that make studying more engaging.
 
-<img src="/images/flashcard/flashcard-2.png" alt="Flashcard" style="border-radius: 10px;" />
-<img src="/images/flashcard/flashcard-5.png" alt="Flashcard" style="border-radius: 10px;" />
+<Image
+  src="/images/flashcard/flashcard-2.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+<Image
+  src="/images/flashcard/flashcard-5.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 #### 2. Speed Review Game
 Challenge yourself with our speed review game mode. Select your preferred time limit from 30 seconds up to 2 minutes, and test how many cards you can review accurately. Enjoy engaging sound effects and visual feedback as you play. This mode is perfect for quick practice sessions and helps improve your recall speed while making learning fun.
 
-<img src="/images/flashcard/flashcard-3.png" alt="Flashcard" style="border-radius: 10px;" />
+<Image
+  src="/images/flashcard/flashcard-3.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 #### 3. Gallery View
 The gallery view gives you a comprehensive overview of your entire collection. Easily search through your cards, apply filters to find specific content, and make quick edits when needed. Sort your cards using various criteria to organize your study material effectively. This view provides quick access to all your content in one place.
 
-<img src="/images/flashcard/flashcard-4.png" alt="Flashcard" style="border-radius: 10px;" />
+<Image
+  src="/images/flashcard/flashcard-4.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 ### 💾 Data Management
 Take control of your study material with flexible data management options. Import existing cards from CSV files, create backups by exporting your collection, and use batch import for adding multiple cards at once. All your data is stored securely on your device, ensuring your study materials are always accessible.
 
-<img src="/images/flashcard/flashcard-1.png" alt="Flashcard" style="border-radius: 10px;" />
+<Image
+  src="/images/flashcard/flashcard-1.png"
+  alt="Flashcard"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
 
 ### ⌨️ Keyboard Shortcuts
 Study efficiently with intuitive keyboard shortcuts. Use the spacebar to flip cards, numbers 1-4 to rate cards during review, and arrow keys to navigate between cards. These shortcuts make your study sessions faster and more productive, allowing you to focus on learning rather than navigation.

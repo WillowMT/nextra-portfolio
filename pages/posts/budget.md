@@ -13,7 +13,23 @@ management across multiple currencies. Whether you're planning a vacation,
 sharing an apartment, or managing group activities, this bot helps keep
 everyone's finances organized and transparent.
 
-Visit [@jarvisbellybot](https://t.me/jarvisbellybot) to get started.
+<div style="background: linear-gradient(135deg, #4F46E5 0%, #10B981 100%); padding: 1rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
+  <a href="https://t.me/jarvisbellybot" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <span style="font-size: 1.5rem;">✨</span>
+    <span>Try the Expense Tracker Bot</span>
+    <span style="background: rgba(255, 255, 255, 0.15); padding: 0.375rem 1rem; border-radius: 9999px; font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem;">
+      <span style="width: 6px; height: 6px; background: #4ade80; border-radius: 50%; animation: pulse 1.5s ease-in-out infinite;"></span>
+      Live
+      <style jsx>{`
+        @keyframes pulse {
+          0% { opacity: 0.6; }
+          50% { opacity: 1; }
+          100% { opacity: 0.6; }
+        }
+      `}</style>
+    </span>
+  </a>
+</div>
 
 ## 🌟 Key Features
 
