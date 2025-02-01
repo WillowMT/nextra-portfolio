@@ -12,7 +12,7 @@ A modern web application that generates custom recipes with images using AI. Bui
 
 
 <div style="background: linear-gradient(135deg, #4F46E5 0%, #10B981 100%); padding: 1rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
-  <a href="https://recipe-generator-theta.vercel.app/browse" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+  <a href="https://recipe.waiyanmt.com/browse" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
     <span style="font-size: 1.5rem;">✨</span>
     <span>Try the Recipe Generator</span>
     <span style="background: rgba(255, 255, 255, 0.15); padding: 0.375rem 1rem; border-radius: 9999px; font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem;">

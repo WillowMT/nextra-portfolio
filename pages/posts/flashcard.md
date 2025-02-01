@@ -11,7 +11,7 @@ author: Wai Yan
 A powerful and intuitive flashcard application designed to help you learn and retain information effectively. This app combines the science of spaced repetition with engaging study modes to make your learning experience both efficient and enjoyable.
 
 <div style="background: linear-gradient(135deg, #4F46E5 0%, #10B981 100%); padding: 1rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
-  <a href="https://flashcard-next-rho.vercel.app" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+  <a href="https://flashcards.waiyanmt.com" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
     <span style="font-size: 1.5rem;">✨</span>
     <span>Try the Flashcard App</span>
     <span style="background: rgba(255, 255, 255, 0.15); padding: 0.375rem 1rem; border-radius: 9999px; font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem;">

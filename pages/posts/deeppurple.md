@@ -14,7 +14,7 @@ author: Wai Yan
 DeepPurple is an AI-powered sentiment analysis platform designed to help businesses gain insights from customer feedback, product reviews, and social media interactions. The platform processes large volumes of text data and categorizes them based on emotions, sentiment, and intent. It allows businesses to better understand customer opinions and make informed decisions to improve products and services.
 
 <div style="background: linear-gradient(135deg, #4F46E5 0%, #10B981 100%); padding: 1rem; border-radius: 12px; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease;">
-  <a href="https://deeppurple2024-mu.vercel.app/" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+  <a href="https://deeppurple.waiyanmt.com/" style="color: white; text-decoration: none; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 1rem;">
     <span style="font-size: 1.5rem;">✨</span>
     <span>Try DeepPurple</span>
     <span style="background: rgba(255, 255, 255, 0.15); padding: 0.375rem 1rem; border-radius: 9999px; font-size: 0.875rem; display: flex; align-items: center; gap: 0.5rem;">
